@@ -6,4 +6,4 @@
 
 # Install
 * Download
-* Extract <code>NibelungTracker<code> into <code><WoW Folder>/Interface/Addons/<code> Folder
+* Extract `NibelungTracker` into `<WoW Folder>/Interface/Addons/` Folder
