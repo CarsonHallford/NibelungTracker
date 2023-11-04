@@ -1,2 +1,3 @@
 # NibelungTracker
-Basic Addon for WOTLK Classic that tracks when Nibelung procs a Val'kyr Protector.
+* Simple addon that displays a Val'kyr icon when Nibelung summons a Val'kyr Protector
+* Addon will keep track of how many active Val'kyr are spawned/despawned
