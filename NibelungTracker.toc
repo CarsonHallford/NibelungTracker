@@ -1,9 +1,0 @@
-## Interface: 30403
-
-## Title: NibelungTracker
-## Notes: Addon that displays and tracks the number of Val'kyr Protectors summoned by the Nibelung Staff (25 Heroic)
-
-## Version: 1.0.0
-## Author: Cdh
-
-NibelungTracker.lua
