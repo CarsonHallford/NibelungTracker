@@ -5,5 +5,5 @@
 ![Model](https://github.com/CarsonHallford/NibelungTracker/blob/main/Showcase/valkyr%20icon%20showcase.PNG)
 
 # Install
-* Download
+* [Download](https://github.com/CarsonHallford/NibelungTracker/releases/tag/1.0.0)
 * Extract `NibelungTracker` into `<WoW Folder>/Interface/Addons/` Folder
